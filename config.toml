@@ -1,4 +1,4 @@
-baseURL = "http://dedataverbinders.nl/"
+baseURL = "https://dataverbinders.github.io/"
 languageCode = "nl-nl"
 title = "de dataverbinders."
 
@@ -7,12 +7,8 @@ theme = "novela"
 paginate = 6
 
 [social]
-twitter= "#"
 github= "https://github.com/dataverbinders"
 linkedin= "https://www.linkedin.com/company/de-dataverbinders"
-instagram = "#"
-dribbble = "#"
-youtube = "#"
 
 [taxonomies]
 author = "authors"
