@@ -7,8 +7,17 @@ theme = "novela"
 paginate = 6
 
 [social]
-github= "https://github.com/dataverbinders"
-linkedin= "https://www.linkedin.com/company/de-dataverbinders"
+github = "https://github.com/dataverbinders"
+linkedin = "https://www.linkedin.com/company/de-dataverbinders"
+twitter = "#"
+instagram = "#"
+dribbble = ""
+youtube = ""
+facebook = ""
+medium = ""
+patreon = ""
+paypal = ""
+unsplash = "#"
 
 [taxonomies]
 author = "authors"
