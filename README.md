@@ -19,5 +19,5 @@ Shamelessly re-using [Mozilla Dot Design](https://mozilla.design/firefox/)
 
 This website is build using [Hugo](https://gohugo.io/) with [Novela theme](https://github.com/forestryio/hugo-theme-novela) by [forestry.io](https://forestry.io/). It is hosted on GitHub, following the setup for [pages for organizations](https://gohugo.io/hosting-and-deployment/hosting-on-github/) and [configuration of a custom domain](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/configuring-a-custom-domain-for-your-github-pages-site).
 
-This setup uses a separate repository https://github.com/dataverbinders/dateverbinders.github.io to allow CNAME direction https://dataverbinders.github.io. Note that you can't redirect your DNS CNAME to a project website lke https://dataverbinders.github.io/website.
+This setup uses a separate repository https://github.com/dataverbinders/dataverbinders.github.io to allow CNAME direction to https://dataverbinders.github.io. Note that you can't redirect a DNS CNAME to a project website like https://dataverbinders.github.io/website.
 
