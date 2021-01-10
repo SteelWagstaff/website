@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wij zijn de dataverbinders.</title>
+    <title>de dataverbinders.</title>
     <link>http://dedataverbinders.nl/</link>
-    <description>Recent content on Wij zijn de dataverbinders.</description>
+    <description>Recent content on de dataverbinders.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>nl-nl</language><atom:link href="http://dedataverbinders.nl/index.xml" rel="self" type="application/rss+xml" />
   </channel>
