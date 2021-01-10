@@ -1,12 +1,14 @@
 ---
-title: "Wij zijn de dataverbinders"
+title: "Wij zijn de dataverbinders."
 date: 2021-01-10
 excerpt: Hoe de dataverbinders zijn ontstaan.
-hero: "/images/hero-2.jpg"
+hero: "/images/wolfgang-hasselmann-tree.jpg"
 authors:
   - Daniel Kapitan
   - Josine van der Brug
-  - Joran Lokkerbol 
+  - Joran Lokkerbol
+  - Egge van der Poel
+  - Marcel Kerkhoven
 ---
 
 ## Wij zijn de dataverbinders.
