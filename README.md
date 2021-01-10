@@ -1,4 +1,4 @@
-#  van de website dedataverbinders.nl
+#  Source code of dedataverbinders.nl website
 
 We thankfully acknowledge the use of:
 - [Hugo](https://gohugo.io/), the world's fastest framework to build websites
