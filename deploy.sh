@@ -12,7 +12,7 @@ hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
 cd public
 
 # add CNAME
-echo 'dedataverbinders.nl' > public/CNAME
+echo 'dedataverbinders.nl' > CNAME
 
 # Add changes to git.
 git add .
