@@ -1,6 +1,6 @@
 ---
 title: Daniel Kapitan
-bio: Fysicus, buitensporter, houdt van programmeren en lesgeven. Docent bij Jheronimus Academy of Data Science.
+bio: Fysicus, data scientist, Holacracy, liefhebber van de bergen.
 avatar: /images/daniel-kapitan.jpg
 featured: true
 social:

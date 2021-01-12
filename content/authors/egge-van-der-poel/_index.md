@@ -2,7 +2,7 @@
 title: Egge van der Poel
 bio: Fysicus, filosoof, jonge vader van drie kinderen, Rotterdam.
 avatar: /images/egge-van-der-poel.jpg
-featured: true
+featured: false
 social:
   - title: linkedin
     url: https://www.linkedin.com/in/eggevanderpoel/
