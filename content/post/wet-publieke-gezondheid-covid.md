@@ -26,4 +26,6 @@ Zij hebben deze informatie nodig ter bescherming van kwetsbare groepen, maar daa
 
 De Wet Publieke Gezondheid is helaas alleen geschreven vanuit een overheidsperspectief, en de rol en de behoeftes van zorgverleners is niet meegenomen bij het opstellen van de wet. Gezien de andere infectieziekten was dat wellicht ook niet nodig, maar Covid-19 is anders en een andere aanpak is dan ook gewenst.
 
-> Beste overheid, breid (alleen voor Covid-19) de meldplicht van verdenkingen uit naar andere zorgverleners (een digitaal systeem is dan aan te raden), neem een verplichting op dat de GGD de desbetreffende huisarts informeert over de verdenking dan wel besmetting en sta wettelijk toe dat zorgverleners elkaar onderling (via een platform op een veilige manier) elkaar mogen informeren, voor zover noodzakelijk. Informatie delen is weliswaar niet onmogelijk nu, maar het zou fijn zijn als er een wettelijk kader is. Bedankt alvast.
+## Beste overheid
+
+_... breid (alleen voor Covid-19) de meldplicht van verdenkingen uit naar andere zorgverleners (een digitaal systeem is dan aan te raden), neem een verplichting op dat de GGD de desbetreffende huisarts informeert over de verdenking dan wel besmetting en sta wettelijk toe dat zorgverleners elkaar onderling (via een platform op een veilige manier) elkaar mogen informeren, voor zover noodzakelijk. Informatie delen is weliswaar niet onmogelijk nu, maar het zou fijn zijn als er een wettelijk kader is. Bedankt alvast._

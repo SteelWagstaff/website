@@ -1,6 +1,6 @@
 ---
 title: Josine van der Brug
-bio: Kan-wel-jurist voor de zorg, we4u app
+bio: Kan-wel-jurist voor de zorg, we4u app.
 avatar: images/josine-van-der-brug.jpg
 featured: true
 social:
