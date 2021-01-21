@@ -1,7 +1,6 @@
 +++
 authors = ["Daniel Kapitan"]
 date = 2021-01-20T23:00:00Z
-draft = true
 excerpt = "Some funny story"
 hero = ""
 title = "Test new post from forestry.io"
