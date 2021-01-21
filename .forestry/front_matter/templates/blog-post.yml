@@ -17,3 +17,5 @@ fields:
 - type: list
   name: authors
   label: authors
+pages:
+- content/post/test-new-post-from-forestry.io.md
